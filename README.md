@@ -1,16 +1,11 @@
-# abcdef README
+# abcdef theme
 
-## Working with Markdown
+A custom vscode theme created according to my preferences. My first attempt, just for fun.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+The theme is made up of a combination of the Eva dark theme, snazzy operator theme, and some of my own custom colors.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshot
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+<p align="center">
+  <img src="https://github.com/jxne00/my-vsc-theme/blob/master/screenshots/abcdef.png" alt="theme screenshot">
+</p>

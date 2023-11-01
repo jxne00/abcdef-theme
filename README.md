@@ -7,5 +7,5 @@ The theme is made up of a combination of the Eva dark theme, snazzy operator the
 ## Screenshot
 
 <p align="center">
-  <img src="https://github.com/jxne00/my-vsc-theme/blob/master/screenshots/abcdef.png" alt="theme screenshot">
+  <img src="https://github.com/jxne00/abcdef-theme/blob/master/screenshots/abcdef.png" alt="theme screenshot">
 </p>

@@ -1,12 +1,12 @@
 {
   "name": "abcdef",
   "displayName": "abcdef",
-  "description": "my own theme",
+  "description": "A mix of the Eva dark theme, Snazzy operator theme, One dark pro theme, and adjusted to my liking.",
   "version": "0.2.1",
   "publisher": "jxne00",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jxne00/abcdef-theme"
   },
   "license": "MIT",
   "homepage": "https://github.com/jxne00/abcdef-theme",

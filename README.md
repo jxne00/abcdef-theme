@@ -1,6 +1,6 @@
 # abcdef theme
 
-A custom vscode theme created according to my preferences. The theme is made up of a combination of the Eva dark theme, snazzy operator theme, and some of my own custom colors.
+A custom vscode theme created according to my preferences. It contains a mix of the Eva dark theme, Snazzy operator theme, One dark pro theme, and adjusted based on my own liking.
 
 ## Screenshot
 

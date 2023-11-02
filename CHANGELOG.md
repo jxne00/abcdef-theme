@@ -20,3 +20,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Make editor background darker
 - Set tab colors to better match the overall theme
+
+## [0.2.2]
+
+- Revert back to old editor background color (oops)
+- Add Icon and update screenshot

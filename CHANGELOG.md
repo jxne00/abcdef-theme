@@ -25,3 +25,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Revert back to old editor background color (oops)
 - Add Icon and update screenshot
+- Use a darker shade of green for strings

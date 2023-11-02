@@ -12,7 +12,7 @@ export default function Example() {
       <label>
         Name:
         <input value={name} onChange={(e) => setName(e.target.value)} />
-        <button onClick={() => setName('')}>Clear</button>
+        <button onClick={() => setName('')}>abcdef</button>
       </label>
 
       <label>

@@ -10,9 +10,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [0.1.0]
 
-- Update Description
+- Update description to add screenshots.
 
 ## [0.2.0]
 
-- Fix image display on Marketplace
+- Fix the links to the screenshots so that the image displays on Marketplace page.
 
+## [0.2.1]
+
+- Make editor background darker
+- Set tab colors to better match the overall theme

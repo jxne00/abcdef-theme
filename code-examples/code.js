@@ -4,7 +4,7 @@ import React, { useState } from 'react';
 export default function Example() {
   const [name, setName] = useState('Mary');
   const [age, setAge] = useState(42);
-  
+
   const hello = 'Hello, world!';
 
   return (

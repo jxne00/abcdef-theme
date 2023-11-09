@@ -91,8 +91,8 @@
     // ===== ACTIVITY BAR ===== //
     "activityBarBadge.background": "#ab6cd9",
     "activityBarBadge.foreground": "#f8fafd",
-    "activityBar.background": "#d7dae0",
-    "activityBar.foreground": "#d7dae0",
+    "activityBar.background": "#20222d",
+    "activityBar.foreground": "#c1c4c9",
 
     // ===== TAB ===== //
     "tab.activeBorder": "#ab6cd9",
@@ -124,7 +124,7 @@
     "sideBarTitle.foreground": "#9DA5B3",
 
     // ===== STATUS BAR ===== //
-    "statusBar.background": "#262936",
+    "statusBar.background": "#20222d",
     "statusBar.foreground": "#848b96",
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.noFolderBackground": "#21252b",
